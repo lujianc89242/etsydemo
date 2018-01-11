@@ -23,7 +23,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'coffee-script-source', '1.8.0'
 gem 'bootstrap-sass', '~>3.0.3.0'
 gem 'carrierwave', '~> 1.0'
-gem 'pg', group: :production
+gem 'pg', '~> 0.20', group: :production
 gem "fog-aws"
 gem "figaro"
 gem "mini_magick"
