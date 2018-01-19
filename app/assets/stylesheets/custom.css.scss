@@ -33,3 +33,10 @@ body {
   h5 {font-size: 25px;}
   p {font-size: 18px;}
 }
+
+.jumbotron {
+  background-image: url('https://s3.amazonaws.com/etsydemo2018/jumbotron.jpg');
+  h1,h2{
+    font-family: guardian-egyptt, georgia, serif;
+  }
+}
